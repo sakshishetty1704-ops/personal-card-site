@@ -10,3 +10,10 @@ body {
     margin-bottom: 20px;
     color: #0d47a1;
 }
+
+.team-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
